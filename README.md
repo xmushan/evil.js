@@ -7,12 +7,6 @@
 
 -- 摘自[hongfs](https://github.com/hongfs)的[issue #1](https://github.com/wheatup/evil.js/issues/1)，共勉
 
-* Install
-
-```
-$ npm i lodash-utils
-```
-
 什么？黑心996公司要让你提桶跑路了？
 
 想在离开前给你们的项目留点小*礼物*？
